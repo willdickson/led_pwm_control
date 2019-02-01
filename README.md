@@ -11,7 +11,7 @@ $ python setup.py install
 
 ```
 
-#### Library: M1WindSensor Example
+#### Python library example 
 
 ```python
 from led_pwm_control import LEDController 
